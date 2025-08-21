@@ -140,11 +140,11 @@ INSERT INTO Producto VALUES (3, 'Drone Mini', 'Robótica', 3, 3, 800.00);
 INSERT INTO Producto VALUES (4, 'Chip IoT', 'Electrónica', 4, 4, 300.00);
 INSERT INTO Producto VALUES (5, 'App de Salud', 'Software', 5, 5, 200.00);
 
-INSERT INTO Responsable VALUES (1, 'Mario López', 'mario@correo.com');
-INSERT INTO Responsable VALUES (2, 'Sofía Martínez', 'sofia@correo.com');
-INSERT INTO Responsable VALUES (3, 'Luis Ramírez', 'luis@correo.com');
-INSERT INTO Responsable VALUES (4, 'Claudia Herrera', 'claudia@correo.com');
-INSERT INTO Responsable VALUES (5, 'Andrés Peña', 'andres@correo.com');
+INSERT INTO Responsable VALUES (1, 'Mario López', 'mario@gmail.com');
+INSERT INTO Responsable VALUES (2, 'Sofía Martínez', 'sofia@gmail.com');
+INSERT INTO Responsable VALUES (3, 'Luis Ramírez', 'luis@gmail.com');
+INSERT INTO Responsable VALUES (4, 'Claudia Herrera', 'claudia@gmail.com');
+INSERT INTO Responsable VALUES (5, 'Andrés Peña', 'andres@gmail.com');
 
 INSERT INTO Demostracion VALUES (1, 'Robótica Avanzada', '2025-06-01');
 INSERT INTO Demostracion VALUES (2, 'Nube y Big Data', '2025-06-01');
